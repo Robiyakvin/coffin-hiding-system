@@ -10,12 +10,12 @@ Make hiding mechanics easy to implement with Coffin Hiding System!
 
 ✨ Features
 
-- Interactive Coffin:** Players can enter and exit using a ProximityPrompt.
-- Character Concealment:** Hides the player's character while inside.
-- Automatic Restoration:** Restores character visibility and collision when exiting.
-- Respawn Handling:** Designed to handle player death and respawning.
-- Multiplayer Support:** Each coffin can only be occupied by one player at a time.
-- Reusable System:** Designed for integration into different Roblox experiences.
+- Interactive Coffin: Players can enter and exit using a ProximityPrompt.
+- Character Concealment: Hides the player's character while inside.
+- Automatic Restoration: Restores character visibility and collision when exiting.
+- Respawn Handling: Designed to handle player death and respawning.
+- Multiplayer Support: Each coffin can only be occupied by one player at a time.
+- Reusable System: Designed for integration into different Roblox experiences.
 
 🛠️ Use Cases
 
