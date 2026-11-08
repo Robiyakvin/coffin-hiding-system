@@ -1,3 +1,5 @@
+<img width="150" height="150" alt="noFilter" src="https://github.com/user-attachments/assets/48663270-69c1-4660-952c-f2351d5823f5" />
+
 # coffin-hiding-system
 
 A reusable Roblox coffin hiding system featuring interactive entry and exit, character concealment, automatic restoration, and multiplayer support. Perfect for horror, survival, and stealth games.
